@@ -2,4 +2,4 @@
 ### to start write in terminal "npm run start"
 # Frontend part - https://github.com/OrbitBanan/Pindie-frontend
 ### account data
-### email: Orbit@banan.com | password: admin
+### email: aski@example.com | password: ilovehtml
